@@ -1,0 +1,17 @@
+.btn {
+  margin-left: 1px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 10px 16px;
+  border-radius: 3px;
+  line-height: 16px;
+  background: #FF8663;
+  color: #fff;
+  border: none;
+}
+
+.btn:hover {
+  background: #ec6d4a;
+  box-shadow: 0px 2px 2px 0px rgba(200, 106, 34, 0.3);
+}

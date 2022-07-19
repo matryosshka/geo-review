@@ -1,0 +1,30 @@
+.reviews {
+  max-height: 95px;
+  overflow-y: scroll;
+  color: black;
+  font-size: 14px;
+  line-height: 16px;
+  margin-bottom: 10px;
+}
+
+.reviews__line {
+  border-top: 1px solid #E7E7E7;
+  width: 310px;
+  position: fixed;
+}
+
+.review {
+  padding: 7px;
+}
+
+.review__item {
+  color: #8F8F8F;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.review__item__author {
+  color: #000;
+  font-weight: 400;
+}
