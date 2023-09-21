@@ -20,7 +20,5 @@
 - HTML, CSS
 
 <br>
-<p>🎓 <a href="https://loftschool.com/diploma/QH1640715367/ru/pdf">Сертификат</a> о прохождении курса с итоговой оценкой.</p>
-<br>
 
 ![](https://github.com/tlenchik/geo-review/blob/b10015e0cb05c14b8ac68c3468e8a0e1e26f2080/yamaps.png)
